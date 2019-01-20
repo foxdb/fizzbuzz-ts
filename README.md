@@ -1,5 +1,7 @@
 # fizzbuzz-ts
 
+**The FizzBuzz test:** http://wiki.c2.com/?FizzBuzzTest
+
 ## Setup
 
 ```
